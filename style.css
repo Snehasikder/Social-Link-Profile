@@ -1,0 +1,83 @@
+body{
+  background-color:hsl(0, 0%, 8%);
+  color:hsl(0, 0%, 100%);
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.a{
+    padding:15px;
+    display: block;
+    margin-top: 80px;
+    margin-left: 480px;
+    /* justify-content: center; */
+    width:fit-content;
+    background-color: hsl(0, 0%, 12%);
+}
+a{
+    text-decoration: none;
+    color:hsl(0, 0%, 100%);
+}
+a:hover {
+    color: black;
+}
+.g{ 
+    height: 30px;
+    text-align: center;
+    width: 100%;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 5px;
+    font-weight: 600;
+    font-style: SemiBold;
+}
+.f{
+    height: 30px;
+    text-align: center;
+    width: 100%;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 5px;
+    font-weight: 600;
+    font-style: SemiBold;
+}
+.l{
+    height: 30px;
+    text-align: center;
+    width: 100%;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 5px;
+    font-weight: 600;
+    font-style: SemiBold;
+}
+.t{  
+    height: 30px;
+    text-align: center;
+    width: 100%;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 5px;
+    font-weight: 600;
+    font-style: normal;
+}
+.i{
+    height: 30px;
+    text-align: center;
+    width: 100%;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 5px;
+    font-weight: 600;
+    font-style: normal;
+}
+h4{ margin-top: 1rem;
+    text-align:center; 
+    color:hsl(75, 94%, 57%);
+}
+.b{ border-radius: 50%;
+    display: flex;
+    justify-self: center;
+}
+.g:hover , .f:hover , .i:hover , .l:hover , .t:hover {
+    background-color:hsl(75, 94%, 57%);
+}
+.b:hover{
+    height: 5.5rem;
+}
