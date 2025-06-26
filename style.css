@@ -3,12 +3,11 @@ body{
   color:hsl(0, 0%, 100%);
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-weight: weight;
-  font-style: normal;
+  font-weight: 600;
+  font-style: semi-bold;
 }
 .a{
     border-radius: 12px;
-    padding:2px;
     display: block;
     gap: 60px;
     padding: 60px;
