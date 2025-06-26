@@ -67,7 +67,8 @@ a:hover {
     font-weight: 600;
     font-style: normal;
 }
-h4{ margin-top: 1rem;
+h3{
+  margin-top: 1rem;
     text-align:center; 
     color:hsl(75, 94%, 57%);
 }
