@@ -82,3 +82,6 @@ h4{ margin-top: 1rem;
 .b:hover{
     height: 5.5rem;
 }
+p , h2{
+  text-align: center;
+}
